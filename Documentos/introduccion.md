@@ -14,3 +14,4 @@ Los paquetes RPM (Red Hat Package Manager) son un formato de archivo utilizado p
   * RPM incluye mecanismos de verificación de integridad que permiten comprobar la integridad de los archivos en un paquete.
 * Soporte de Firmas Digitales:
   * RPM puede verificar firmas digitales para garantizar la autenticidad de los paquetes, lo que mejora la seguridad y previene la instalación de paquetes comprometidos.
+![rpm](/img/RPM.svg)
