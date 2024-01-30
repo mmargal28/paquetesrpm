@@ -1,6 +1,6 @@
 # Paquetes rpm
 
-##Indice
+## Indice
 1.[¿Qué son los paquetes rpm?](/Documentos/)
 2.[Distribución Rocky Linux]
 3.[Repositorios]
