@@ -1,5 +1,5 @@
 # Paquetes .rpm
-
+![rocky](/img/portada.png)
 ## Indice
 1. [¿Qué son los paquetes rpm?](/Documentos/introduccion)
 2. [Distribución Rocky Linux](/Documentos/distribucion)
