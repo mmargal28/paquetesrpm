@@ -8,6 +8,7 @@ En Rocky Linux, la gestión de paquetes se realiza principalmente a través de D
 * Directorio de Repositorios de DNF:
 
   * /etc/yum.repos.d/: Este directorio contiene archivos individuales de configuración para cada repositorio. Cada archivo representa un repositorio específico y contiene detalles sobre la URL del repositorio, habilitación, opciones de seguridad y más.
+![DNF](../img/dnf.png)
 
 ## Repositorios de YUM:
 * Archivo Principal de Configuración de YUM:
@@ -16,3 +17,4 @@ En Rocky Linux, la gestión de paquetes se realiza principalmente a través de D
 * Directorio de Repositorios de YUM:
 
   * /etc/yum.repos.d/: Al igual que con DNF, este directorio contiene archivos individuales de configuración para cada repositorio. Cada archivo representa un repositorio específico y contiene detalles sobre la URL del repositorio, habilitación, opciones de seguridad y más.
+![YUM](../img/yum.png)
