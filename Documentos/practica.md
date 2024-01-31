@@ -28,3 +28,5 @@ e) Desinstalar el paquete:
 sudo dnf remove nombre-del-paquete
 #Este comando eliminará el paquete y, si es necesario, también sus dependencias no utilizadas
 ```
+<iframe width="560" height="315" src="https://youtu.be/O830XG6_ORI" frameborder="0" allowfullscreen></iframe>
+
