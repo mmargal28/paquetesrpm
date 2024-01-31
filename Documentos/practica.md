@@ -1,6 +1,7 @@
 # Instalacion de paquetes
+--------
 Vamos a instalar paquetes .rpm, para esto usaremos el gestor de paquentes DNF tambien es posible usar YUM, pero como mencione DNF es una versión mejorada del YUM asi que usaremos DNF, pero su uso es identico habria que reemplazar dnf en los comandos a continuacion por yum.
-<br>
+
 ---------
 a) Actualizar el sistema:
 ```
