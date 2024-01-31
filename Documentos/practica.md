@@ -29,4 +29,4 @@ sudo dnf remove nombre-del-paquete
 #Este comando eliminará el paquete y, si es necesario, también sus dependencias no utilizadas
 ```
 
-[![Video de YouTube](https://youtu.be/O830XG6_ORI)
+![Video de YouTube](https://youtu.be/O830XG6_ORI)
