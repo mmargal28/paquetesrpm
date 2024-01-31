@@ -12,7 +12,7 @@ Rocky Linux es una distribución de Linux de código abierto creada como un reem
   * Rocky Linux es impulsado por la comunidad y está respaldado por la organización sin fines de lucro Rocky Enterprise Software Foundation. La comunidad está comprometida con la transparencia, la participación y la toma de decisiones abierta.
 * Gestión de Paquetes con DNF:
 
- * Al igual que en otras distribuciones basadas en RHEL, Rocky Linux utiliza DNF (Dandified YUM) como gestor de paquetes para la instalación, actualización y eliminación de software.
+  * Al igual que en otras distribuciones basadas en RHEL, Rocky Linux utiliza DNF (Dandified YUM) como gestor de paquetes para la instalación, actualización y eliminación de software.
 * Soporte para Múltiples Arquitecturas:
 
    *  Rocky Linux está disponible para varias arquitecturas, incluyendo x86_64, aarch64 (ARM64), y ppc64le (PowerPC).
@@ -21,4 +21,4 @@ Rocky Linux es una distribución de Linux de código abierto creada como un reem
   * Ofrece herramientas de migración para facilitar la transición de sistemas que utilizaban CentOS 7 a Rocky Linux.
 * Soporte a Largo Plazo (LTS):
 
-*  Similar a la filosofía de las distribuciones de Linux empresariales, Rocky Linux se compromete a proporcionar soporte a largo plazo para sus versiones, brindando estabilidad a las implementaciones a largo plazo.
+ *  Similar a la filosofía de las distribuciones de Linux empresariales, Rocky Linux se compromete a proporcionar soporte a largo plazo para sus versiones, brindando estabilidad a las implementaciones a largo plazo.
