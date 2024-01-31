@@ -6,8 +6,8 @@ Los paquetes RPM (Red Hat Package Manager) son un formato de archivo utilizado p
 * PatchRPMs y DeltaRPMs, que son equivalentes a ficheros parche, pueden actualizar incrementalmente los paquetes RPM instalados.
 * Las dependencias pueden ser resueltas automáticamente por el gestor de paquetes.
 ### Ventajas
-*Soporte Oficial de Empresas:
-  *Algunas empresas y organizaciones pueden preferir el soporte oficial de paquetes RPM por parte de proveedores como Red Hat, lo que puede ser relevante en entornos empresariales donde la estabilidad y la asistencia son críticas.
+* Soporte Oficial de Empresas:
+  * Algunas empresas y organizaciones pueden preferir el soporte oficial de paquetes RPM por parte de proveedores como Red Hat, lo que puede ser relevante en entornos empresariales donde la estabilidad y la asistencia son críticas.
 * Control de Versiones:
   * El formato RPM incluye información detallada sobre la versión del software, permitiendo un mejor control de versiones y actualizaciones.
 * Gestión de Dependencias:
