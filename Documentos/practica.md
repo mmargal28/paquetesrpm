@@ -30,4 +30,4 @@ sudo dnf remove nombre-del-paquete
 ```
 <iframe width="560" height="315" src="https://youtu.be/O830XG6_ORI" frameborder="0" allowfullscreen></iframe>
 
-[![miniatura](../Img/miniatura.png)](https://youtu.be/O830XG6_ORI)
+[![miniatura](../img/miniatura.png)](https://youtu.be/O830XG6_ORI)
