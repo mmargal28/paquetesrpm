@@ -21,4 +21,4 @@ Rocky Linux es una distribución de Linux de código abierto creada como un reem
   * Ofrece herramientas de migración para facilitar la transición de sistemas que utilizaban CentOS 7 a Rocky Linux.
 * Soporte a Largo Plazo (LTS):
 
- *  Similar a la filosofía de las distribuciones de Linux empresariales, Rocky Linux se compromete a proporcionar soporte a largo plazo para sus versiones, brindando estabilidad a las implementaciones a largo plazo.
+  * Similar a la filosofía de las distribuciones de Linux empresariales, Rocky Linux se compromete a proporcionar soporte a largo plazo para sus versiones, brindando estabilidad a las implementaciones a largo plazo.
