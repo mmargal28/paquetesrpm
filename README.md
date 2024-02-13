@@ -1,5 +1,7 @@
 # Paquetes .rpm
 ![rocky](/img/Portada.png)
+##Autor
+- `Manuel Martín Galve` (https://github.com/mmargal28)
 ## Indice
 1. [¿Qué son los paquetes rpm?](/Documentos/introduccion.md)
 2. [Distribución Rocky Linux](/Documentos/distribucion.md)
