@@ -1,6 +1,6 @@
 # Paquetes .rpm
 ![rocky](/img/Portada.png)
-##Autor
+## Autor
 - `Manuel Martín Galve` (https://github.com/mmargal28)
 ## Indice
 1. [¿Qué son los paquetes rpm?](/Documentos/introduccion.md)
